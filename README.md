@@ -1,1 +1,1 @@
-# ai-software-builder
+An experimental TypeScript agent that helps transform software requirements into tested code while keeping humans involved in important design decisions.
